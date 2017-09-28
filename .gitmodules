@@ -1,0 +1,3 @@
+[submodule "smart-contracts/diamondProblem"]
+	path = smart-contracts/diamondProblem
+	url = git://github.com/poperechnyi1/diamondProblem
