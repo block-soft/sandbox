@@ -1,6 +1,0 @@
-[submodule "smart-contracts/diamondProblem"]
-	path = smart-contracts/diamondProblem
-	url = git://github.com/poperechnyi1/diamondProblem
-[submodule "token-contracts/SPT"]
-	path = token-contracts/SPT
-	url = git://github.com/poperechnyi1/SPT
